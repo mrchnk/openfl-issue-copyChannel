@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="openfl-issue-copyChannel" package="io.github.mrchnk.openfl-issue-copyChannel" version="1.0.0" company="mrchnk" />
+	<app main="Main" path="bin/app" file="Main" />
+
+	<window width="1280" height="720" fps="30" />
+
+	<source path="src" />
+
+	<haxelib name="openfl" />
+
+	<assets path="assets" preload="true" />
+
+</project>
