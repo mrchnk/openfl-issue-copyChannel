@@ -1,0 +1,1 @@
+# openfl-issue-copyChannel
